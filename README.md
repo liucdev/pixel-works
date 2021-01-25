@@ -1,5 +1,5 @@
 # pixel-works
 
-<a text-align="center">by liucdev</a>
+<a textalign="center">by liucdev</a>
 
-* ✔ icon
+* ✔ icon \times 93
