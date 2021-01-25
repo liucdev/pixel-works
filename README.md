@@ -1,5 +1,5 @@
-# pixel-works
+<h1 align="center">pixel-works</h1>
 
-<a textalign="center">by liucdev</a>
+<a align="center">by liucdev</a>
 
-* ✔ icon \times 93
+* ✔ icon 93
